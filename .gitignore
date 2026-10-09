@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor & OS
+.DS_Store
+Thumbs.db
+*.local
+.vscode/
+.idea/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Vite cache
+.vite/
+
+# Bob / AI tools
+.claude
+.bob/
+
+# Misc uploads (raw source images kept out of git)
+pic.png
+pic1.png
+pic (1).png
+pic1 (1).png
+pic1 (1) copy.png
+
+# Resume source file (only the public/assets/ copy is tracked)
+Saileshkumar_A_Resume_AIEngineer_Updated-1.pdf
+sushmita-the-series.zip
