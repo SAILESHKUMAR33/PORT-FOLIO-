@@ -1,6 +1,6 @@
-# SAILESH — THE SERIES
+# SAILESHKUMAR Aâ€” THE SERIES
 
-A cinematic, streaming-inspired portfolio for **Sailesh Kumar A**: AI Engineer and B.Tech AI & Data Science graduate.
+A cinematic, streaming-inspired portfolio for **SaileshKumar A**: AI Engineer and B.Tech AI & Data Science graduate.
 Every section is an episode, every project is an Original, and the whole site plays like a series.
 
 > A personal portfolio with a fictional streaming-platform look. It is not affiliated with Netflix or any other streaming service and uses none of their logos.
@@ -29,7 +29,7 @@ The static site is written to `dist/` and can be deployed as-is to Vercel, Netli
 
 **All content lives in one file: [`src/data/portfolio.ts`](src/data/portfolio.ts).** Every component reads from it.
 
-| To change… | Edit |
+| To changeâ€¦ | Edit |
 | --- | --- |
 | Name, intro, email, LinkedIn, GitHub | `profile` |
 | A project, or a new one | `projects` |
